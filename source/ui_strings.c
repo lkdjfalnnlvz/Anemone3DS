@@ -1755,7 +1755,7 @@ const Language_s language_korean = {
                     "\uE07A 아이콘 다시 로드"
                 },
                 {
-                    "\uE07B 테마 플라자 둘러보기",
+                    "\uE07B 테마플라자 둘러보기",
                     "\uE07C 배지 설치"
                 },
                 {
@@ -1793,7 +1793,7 @@ const Language_s language_korean = {
     .camera = 
     {
         .quit = "\uE005를 눌러 취소하세요",
-        .thread_error = "Capture cam thread creation failed\n개발자들에게 이 문제를 알려주세요",
+        .thread_error = "카메라 캡쳐 스레드 생성 실패\n개발자들에게 이 문제를 알려주세요",
         .zip_not_theme_splash = "다운로드한 Zip 파일이\n테마나 스플래시가 아닙니다",
         .file_not_zip = "다운로드한 파일이 zip 형식이 아닙니다.",
         .download_failed = "다운로드에 실패했습니다.",
