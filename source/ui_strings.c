@@ -1742,7 +1742,7 @@ const Language_s language_korean = {
                     NULL
                 },
                 {
-                    "Exit",
+                    "나가기",
                     NULL
                 }
             }
@@ -1755,7 +1755,7 @@ const Language_s language_korean = {
                     "\uE07A 아이콘 다시 로드"
                 },
                 {
-                    "\uE07B ThemePlaza 둘러보기",
+                    "\uE07B 테마 플라자 둘러보기",
                     "\uE07C 배지 설치"
                 },
                 {
@@ -1927,7 +1927,7 @@ const Language_s language_korean = {
                     "\uE005 다음 페이지"
                 },
                 {
-                    "Exit",
+                    "나가기",
                     NULL
                 }
             }
@@ -1948,7 +1948,7 @@ const Language_s language_korean = {
                     "\uE005 다음 페이지"
                 },
                 {
-                    "Exit",
+                    "나가기",
                     NULL
                 }
             }
@@ -1969,7 +1969,7 @@ const Language_s language_korean = {
                     "\uE005 다음 페이지"
                 },
                 {
-                    "Exit",
+                    "나가기",
                     NULL
                 }
             }
@@ -2014,7 +2014,7 @@ const Language_s language_korean = {
                     "\uE005 배지로 가기"
                 },
                 {
-                    "Exit",
+                    "나가기",
                     NULL
                 }
             }
