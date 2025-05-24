@@ -1962,7 +1962,7 @@ const Language_s language_korean = {
                 },
                 {
                     "\uE002 더 보기",
-                    "\uE003 배지 미리보기기"
+                    "\uE003 배지 미리보기"
                 },
                 {
                     "\uE004 이전 페이지",
@@ -1999,7 +1999,7 @@ const Language_s language_korean = {
             }
         },
         {
-            .info_line = "\uE001 추가 메뉴 나가기,
+            .info_line = "\uE001 추가 메뉴 나가기",
             .instructions = {
                 {
                     "\uE079 페이지로 이동",
@@ -2020,7 +2020,7 @@ const Language_s language_korean = {
             }
         },
         {
-            .info_line = "\uE001 추가 메뉴 나가기기",
+            .info_line = "\uE001 추가 메뉴 나가기",
             .instructions = {
                 {
                     "\uE079 페이지로 이동",
