@@ -1861,16 +1861,16 @@ const Language_s language_korean = {
     },
     .main =
     {
-        .position_too_big = "The new position has to be\nsmaller or equal to the\nnumber of entries!",
-        .position_zero = "The new position has to\nbe positive!",
-        .jump_q = "Where do you want to jump to?\nMay cause icons to reload.",
-        .cancel = "Cancel",
-        .jump = "Jump",
+        .position_too_big = "새 위치는 항목 수보다\n크거나 같아야 합니다!",
+        .position_zero = "새 위치는 자연수여야 합니다!",
+        .jump_q = "어디로 이동하고 싶으신가요?\n아이콘이 리로드될 수 있습니다.",
+        .cancel = "취소",
+        .jump = "이동",
         // Note to translator: This is a special case, please translate this string instead of the original one.
         .no_theme_extdata = "테마 추가 데이터가 존재하지 않습니다!\n한국판 전용 테마 패치를 설치해 주시고\n홈 메뉴 설정에서 기본 테마를 설정해주세요.",
         .loading_qr = "QR 코드 스캐너 로딩 중...",
         .no_wifi = "QR 코드 스캔 전에\nWi-Fi에 연결해 주세요",
-        .qr_homebrew = "QR 코드 스캔은 홈브류 런처에서 작동하지 않습니다,\nThemePlaze 탐색기를 대신 사용해주세요.",
+        .qr_homebrew = "QR 코드 스캔은 홈브류 런처에서 작동하지 않습니다,\nThemePlaza 탐색기를 대신 사용해주세요.",
         .camera_broke = "카메라에 문제가 있는 것 같습니다,\nQR 코드를 스캔할 수 없습니다.",
         .too_many_themes = "선택된 테마가 너무 많습니다.",
         .not_enough_themes = "테마를 충분히 선택하지 않았습니다.",
