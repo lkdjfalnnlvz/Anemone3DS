@@ -1861,9 +1861,9 @@ const Language_s language_korean = {
     },
     .main =
     {
-        .position_too_big = "새 위치는 항목 수보다\n크거나 같아야 합니다!",
+        .position_too_big = "새 위치는 항목 수보다 크거나 같아야 합니다!",
         .position_zero = "새 위치는 자연수여야 합니다!",
-        .jump_q = "어디로 이동하고 싶으신가요?\n아이콘이 리로드될 수 있습니다.",
+        .jump_q = "어디로 이동하고 싶으신가요? 아이콘이 리로드될 수 있습니다.",
         .cancel = "취소",
         .jump = "이동",
         // Note to translator: This is a special case, please translate this string instead of the original one.
