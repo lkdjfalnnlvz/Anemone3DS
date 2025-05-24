@@ -1776,7 +1776,7 @@ const Language_s language_korean = {
                     "\uE07A 모든 테마"
                 },
                 {
-                    "\uE07B 배지지",
+                    "\uE07B 배지",
                     NULL
                 },
                 {
@@ -1821,9 +1821,9 @@ const Language_s language_korean = {
         .err_quit = "\uE000를 눌러 나가기",
         .warn_continue = "\uE000를 눌러 계속",
         .yes_no = "\uE000 예   \uE001 아니오",
-        .load_themes = "테마 불러오는 중. 잠시만 기다려주세요...",
-        .load_splash = "스플래시 불러오는 중, 잠시만 기다려주세요...",
-        .load_icons = "아이콘 불러오는 중, 잠시만 기다려주세요...",
+        .load_themes = "테마 불러오는 중,\n잠시만 기다려주세요...",
+        .load_splash = "스플래시 불러오는 중,\n잠시만 기다려주세요...",
+        .load_icons = "아이콘 불러오는 중,\n잠시만 기다려주세요...",
         .install_splash = "스플래시 적용 중...",
         .delete_splash = "적용한 스플래시 제거 중...",
         .install_theme = "단일 테마 적용 중...",
@@ -1867,7 +1867,7 @@ const Language_s language_korean = {
         .cancel = "Cancel",
         .jump = "Jump",
         // Note to translator: This is a special case, please translate this string instead of the original one.
-        .no_theme_extdata = "테마 추가 데이터가 존재하지 않습니다!\n한국판 전용 테마 패치를 설치해 주시고\n홈 메뉴 설정에서\n기본 테마를 설정해주세요.",
+        .no_theme_extdata = "테마 추가 데이터가 존재하지 않습니다!\n한국판 전용 테마 패치를 설치해 주시고\n홈 메뉴 설정에서 기본 테마를 설정해주세요.",
         .loading_qr = "QR 코드 스캐너 로딩 중...",
         .no_wifi = "QR 코드 스캔 전에\nWi-Fi에 연결해 주세요",
         .qr_homebrew = "QR 코드 스캔은 홈브류 런처에서 작동하지 않습니다,\nThemePlaze 탐색기를 대신 사용해주세요.",
@@ -1916,7 +1916,7 @@ const Language_s language_korean = {
             .instructions = {
                 {
                     "\uE000 테마 다운로드",
-                    "\uE001 뒤로로"
+                    "\uE001 뒤로"
                 },
                 {
                     "\uE002 더 보기",
