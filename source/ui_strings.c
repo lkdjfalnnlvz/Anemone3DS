@@ -353,7 +353,7 @@ const Language_s language_english = {
             .info_line = "\uE001 Leave extra menu",
             .instructions = {
                 {
-                    "\uE079 페이지로 이동",
+                    "\uE079 Jump to page",
                     "\uE07A Search tags"
                 },
                 {
@@ -374,7 +374,7 @@ const Language_s language_english = {
             .info_line = "\uE001 Leave extra menu",
             .instructions = {
                 {
-                    "\uE079 페이지로 이동",
+                    "\uE079 Jump to page",
                     "\uE07A Search tags"
                 },
                 {
@@ -395,7 +395,7 @@ const Language_s language_english = {
             .info_line = "\uE001 Leave extra menu",
             .instructions = {
                 {
-                    "\uE079 페이지로 이동",
+                    "\uE079 Jump to page",
                     "\uE07A Search tags"
                 },
                 {
